@@ -14,37 +14,20 @@ sections:
     title: Realtime rail predictions and DC Metro map directly from the app
     type: icons
   - component: Spotlights
-    icons:
-      - icon: fa-camera-retro
-        title: Ipsum lorem accumsan
-      - icon: fa-refresh
-        title: Sed vehicula elementum
-      - icon: fa-cloud
-        title: Elit fusce consequat
-      - icon: fa-code
-        title: Lorem nullam tempus
-      - icon: fa-desktop
-        title: Adipiscing amet sapien
+    icons: []
     section_id: two
     spotlights:
-      - image: images/pic01.jpg
+      - image: /images/interactive map.png
         text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
-        title: Magna sed ultrices
-      - image: images/pic02.jpg
+          Use the interactive map of the DC metro to easily navigate through the
+          metro. Zoom in and out to see where you are going. You can also place
+          markers to track your progress throughout your metro ride.
+        title: Interactive Map
+      - image: /images/arrivals and departures.png
         text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
-        title: Ultrices nullam aliquam
-      - image: images/pic03.jpg
-        text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
-        title: Aliquam sed magna
+          Get real time updates about arrival and departure times for the DC
+          metro. Finally be on time for the metro and you'll always be on time!
+        title: Arrivals and Departures
     title: Spotlights Section
     type: spotlights
   - actions:
