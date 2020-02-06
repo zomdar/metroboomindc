@@ -1,13 +1,13 @@
 title_url: 'https://apps.apple.com/tr/app/metroboomindc/id1460076844'
 subtitle: |-
-  DMV's most popular dedicated DC transit app\
+  DMV's most popular DC transit app\
   Navigate freely
 actions:
   - icon: fa-download
     is_primary: true
     is_scrolly: false
     label: Download
-    url: /elements
+    url: 'https://apps.apple.com/tr/app/metroboomindc/id1460076844'
   - icon: fa-chevron-down
     is_primary: false
     is_scrolly: true
