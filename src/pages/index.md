@@ -30,24 +30,6 @@ sections:
         title: Arrivals and Departures
     title: Spotlights Section
     type: spotlights
-  - actions:
-      - icon: fa-download
-        is_primary: true
-        is_scrolly: false
-        label: Download
-        url: '#'
-      - is_primary: false
-        is_scrolly: false
-        label: Learn More
-        url: /elements
-    background_style: style2
-    component: Cta
-    section_id: three
-    subtitle: |-
-      Gravida at leo elementum elit fusce accumsan dui libero, quis vehicula  
-      lectus ultricies eu. In convallis amet leo sapien iaculis efficitur.
-    title: Magna leo sapien gravida
-    type: cta
 template: home
 ---
 
