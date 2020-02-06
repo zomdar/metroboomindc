@@ -1,13 +1,10 @@
 social_icons:
-  - icon: fa-facebook
-    title: Facebook
-    url: '#'
   - icon: fa-twitter
     title: Twitter
-    url: '#'
+    url: 'https://twitter.com/zomdar'
   - icon: fa-instagram
     title: Instagram
-    url: '#'
+    url: 'https://www.instagram.com/zomdar/'
 copyright: '&copy; Untitled.'
 links:
   - new_window: true
