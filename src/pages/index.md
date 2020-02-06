@@ -4,8 +4,8 @@ sections:
   - background_style: style2
     component: Icons
     icons:
-      - icon: fa-globe-americas
-        title: globe
+      - icon: fa-passport
+        title: passport
       - icon: fa-subway
         title: subway
       - icon: fa-map-marker
