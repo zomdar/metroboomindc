@@ -4,12 +4,12 @@ sections:
   - background_style: style2
     component: Icons
     icons:
-      - icon: fa-compass
-        title: compass
+      - icon: fa-globe-americas
+        title: globe
       - icon: fa-subway
         title: subway
-      - icon: fa-bus
-        title: bus
+      - icon: fa-map-marker
+        title: marker
     section_id: one
     title: Realtime rail predictions and DC Metro map directly from the app
     type: icons
