@@ -4,7 +4,7 @@ sections:
   - background_style: style2
     component: Icons
     icons:
-      - icon: fa-passport
+      - icon: fa-route
         title: passport
       - icon: fa-subway
         title: subway
