@@ -8,7 +8,7 @@ sections:
         title: compass
       - icon: fa-subway
         title: subway
-      - icon: fa-bus-alt
+      - icon: fa-bus
         title: bus
     section_id: one
     title: Realtime rail predictions and DC Metro map directly from the app
