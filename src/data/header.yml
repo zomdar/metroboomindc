@@ -1,7 +1,5 @@
 title_url: 'https://apps.apple.com/tr/app/metroboomindc/id1460076844'
-subtitle: |-
-  DMV's most popular DC transit app\
-  Navigate freely
+subtitle: DMV's most popular DC transit app
 actions:
   - icon: fa-download
     is_primary: true
