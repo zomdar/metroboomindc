@@ -23,7 +23,7 @@ sections:
           metro. Zoom in and out to see where you are going. You can also place
           markers to track your progress throughout your metro ride.
         title: Interactive Map
-      - image: /images/arrivals and departures.png
+      - image: /images/Icon-1024.png
         text: >-
           Get real time updates about arrival and departure times for the DC
           metro. Finally be on time for the metro and you'll always be on time!
